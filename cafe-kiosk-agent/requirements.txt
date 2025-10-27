@@ -1,0 +1,35 @@
+# Core Dependencies
+openai>=1.12.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Async Support
+asyncio>=3.4.3
+aiohttp>=3.9.0
+httpx>=0.26.0
+
+# Data Processing
+python-json-logger>=2.0.7
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+pytest-mock>=3.12.0
+
+# Code Quality
+black>=23.12.0
+flake8>=7.0.0
+mypy>=1.8.0
+isort>=5.13.0
+
+# Logging
+colorlog>=6.8.0
+
+# Optional: Local Model Support
+requests>=2.31.0
+
+# Development
+ipython>=8.12.0
+jupyter>=1.0.0
