@@ -3,7 +3,6 @@
 
 <img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FeyqNTu8DIosQCukS9dyb%252FGroup%25202.png%3Falt%3Dmedia%26token%3Dd1075245-3e5a-43cd-b2f7-e0a85b0909e4&width=300&dpr=4&quality=100&sign=7c4305b0&sv=2" width="500" height="707"/>
 
-
 ## 책 소개
 
 인공지능 기술의 발전은 우리가 시스템을 설계하고 구현하는 방식을 근본적으로 변화시키고 있다. 특히 대규모 언어 모델(LLM)의 등장은 자연어 처리를 넘어 복잡한 의사결정과 작업 수행이 가능한 AI 에이전트 시대를 열었다. 하지만 실제 프로덕션 환경에서 AI 에이전트를 구축할 때 우리는 중요한 질문들과 마주하게 된다. 모든 작업에 가장 강력한 모델을 사용해야 하는가? 비용과 성능 사이에서 어떻게 균형을 맞출 것인가? 사용자의 다양한 의도를 어떻게 정확하게 파악하고 적절한 처리 경로로 안내할 것인가?
